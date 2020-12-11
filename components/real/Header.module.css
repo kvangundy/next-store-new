@@ -1,0 +1,66 @@
+.root {
+  .menu,
+  .mobileMenu {
+    font-family: Favorit SSENSE Inter;
+    @apply flex justify-between items-center relative;
+    position: fixed;
+    background-color: white;
+    width: 100%;
+    top: 0;
+    left: 0;
+    height: 55px;
+    line-height: 55px;
+    padding: 0 16px;
+    z-index: 10;
+  }
+
+  .mobileMenu nav > * {
+    padding: 8px;
+    font-size: 1.1rem;
+    box-sizing: border-box;
+    background-image: none;
+    background-repeat: none;
+    background-size: 0;
+    background-position: 0;
+    text-decoration: none;
+  }
+
+  .menu {
+    display: none;
+    padding-left: 55px;
+    padding-right: 55px;
+  }
+
+  @media (min-width: 1040px) {
+    .mobileMenu {
+      display: none;
+    }
+
+    .menu {
+      display: flex;
+    }
+  }
+}
+
+.logo {
+  @apply text-2xl absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+.nav {
+  @apply flex justify-between items-center;
+}
+
+.link {
+  @apply mr-6 uppercase text-xs;
+  font-weight: 500;
+  white-space: nowrap;
+  cursor: pointer;
+  font-size: 11px;
+  &:last-child {
+    margin-right: 0;
+  }
+}

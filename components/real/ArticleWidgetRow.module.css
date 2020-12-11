@@ -1,0 +1,44 @@
+.root {
+  @apply flex flex-1 mb-8;
+}
+
+.category {
+  @apply mr-8;
+  color: rgb(51, 51, 51);
+  font: lighter normal 0.9375rem/1.125rem JHA Times Now;
+  letter-spacing: -0.00313rem;
+}
+
+.header {
+  @apply flex flex-col;
+  flex-basis: 45%;
+  max-width: 400px;
+  margin-left: 1.25rem;
+}
+
+.title {
+  @apply inline uppercase;
+  color: rgb(51, 51, 51);
+  font: lighter normal 1.78125rem/2.125rem Favorit SSENSE Inter1;
+  letter-spacing: -0.03125rem;
+}
+
+.description {
+  @apply mr-12;
+  color: rgb(51, 51, 51);
+  font: lighter normal 1.25rem/1.625rem JHA Times Now;
+  letter-spacing: -0.00313rem;
+  width: 100%;
+  margin-top: 1.25rem;
+}
+
+.img {
+  background: gray;
+  overflow: hidden;
+}
+
+.figure {
+  margin: 0;
+  flex-basis: 424px;
+  min-width: 424px;
+}

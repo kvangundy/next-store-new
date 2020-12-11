@@ -1,0 +1,212 @@
+@font-face {
+  font-family: plain;
+  src: url("//res.cloudinary.com/ssenseweb/raw/upload/v1427392336/web/fonts/plain/plain-regular-webfont.eot");
+  src: url("//res.cloudinary.com/ssenseweb/raw/upload/v1427392336/web/fonts/plain/plain-regular-webfont.eot?#iefix")
+      format("embedded-opentype"),
+    url("//res.cloudinary.com/ssenseweb/raw/upload/v1427392336/web/fonts/plain/plain-regular-webfont.woff2")
+      format("woff2"),
+    url("//res.cloudinary.com/ssenseweb/raw/upload/v1427392336/web/fonts/plain/plain-regular-webfont.woff")
+      format("woff"),
+    url("//res.cloudinary.com/ssenseweb/raw/upload/v1427392336/web/fonts/plain/plain-regular-webfont.ttf")
+      format("truetype"),
+    url("//res.cloudinary.com/ssenseweb/raw/upload/v1427392336/web/fonts/plain/plain-regular-webfont.svg#plainregular")
+      format("svg");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: plain;
+  src: url("//res.cloudinary.com/ssenseweb/raw/upload/v1427392336/web/fonts/plain/plain-medium-webfont.eot");
+  src: url("//res.cloudinary.com/ssenseweb/raw/upload/v1427392336/web/fonts/plain/plain-medium-webfont.eot?#iefix")
+      format("embedded-opentype"),
+    url("//res.cloudinary.com/ssenseweb/raw/upload/v1427392336/web/fonts/plain/plain-medium-webfont.woff2")
+      format("woff2"),
+    url("//res.cloudinary.com/ssenseweb/raw/upload/v1427392336/web/fonts/plain/plain-medium-webfont.woff")
+      format("woff"),
+    url("//res.cloudinary.com/ssenseweb/raw/upload/v1427392336/web/fonts/plain/plain-medium-webfont.ttf")
+      format("truetype"),
+    url("//res.cloudinary.com/ssenseweb/raw/upload/v1427392336/web/fonts/plain/plain-medium-webfont.svg#plainmedium")
+      format("svg");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: plain;
+  src: url("//res.cloudinary.com/ssenseweb/raw/upload/v1427392336/web/fonts/plain/plain-bold-webfont.eot");
+  src: url("//res.cloudinary.com/ssenseweb/raw/upload/v1427392336/web/fonts/plain/plain-bold-webfont.eot?#iefix")
+      format("embedded-opentype"),
+    url("//res.cloudinary.com/ssenseweb/raw/upload/v1427392336/web/fonts/plain/plain-bold-webfont.woff2")
+      format("woff2"),
+    url("//res.cloudinary.com/ssenseweb/raw/upload/v1427392336/web/fonts/plain/plain-bold-webfont.woff")
+      format("woff"),
+    url("//res.cloudinary.com/ssenseweb/raw/upload/v1427392336/web/fonts/plain/plain-bold-webfont.ttf")
+      format("truetype"),
+    url("//res.cloudinary.com/ssenseweb/raw/upload/v1427392336/web/fonts/plain/plain-bold-webfont.svg#plainbold")
+      format("svg");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Favorit SSENSE Inter;
+  src: url("//res.cloudinary.com/ssenseweb/raw/upload/v1504879826/web/fonts/favorit-times/FavoritSSENSE-Inter.eot");
+  src: url("//res.cloudinary.com/ssenseweb/raw/upload/v1504879826/web/fonts/favorit-times/FavoritSSENSE-Inter.eot?#iefix")
+      format("embedded-opentype"),
+    url("//res.cloudinary.com/ssenseweb/raw/upload/v1504879826/web/fonts/favorit-times/FavoritSSENSE-Inter.woff2")
+      format("woff2"),
+    url("//res.cloudinary.com/ssenseweb/raw/upload/v1504879826/web/fonts/favorit-times/FavoritSSENSE-Inter.woff")
+      format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Favorit SSENSE Inter1;
+  src: url("//res.cloudinary.com/ssenseweb/raw/upload/v1504879826/web/fonts/favorit-times/FavoritSSENSE-Inter.eot");
+  src: url("//res.cloudinary.com/ssenseweb/raw/upload/v1504879826/web/fonts/favorit-times/FavoritSSENSE-Inter.eot?#iefix")
+      format("embedded-opentype"),
+    url("//res.cloudinary.com/ssenseweb/raw/upload/v1504879826/web/fonts/favorit-times/FavoritSSENSE-Inter.woff2")
+      format("woff2"),
+    url("//res.cloudinary.com/ssenseweb/raw/upload/v1504879826/web/fonts/favorit-times/FavoritSSENSE-Inter.woff")
+      format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Favorit SSENSE Regular;
+  src: url("//res.cloudinary.com/ssenseweb/raw/upload/v1504879826/web/fonts/favorit-times/FavoritSSENSE-Regular.eot");
+  src: url("//res.cloudinary.com/ssenseweb/raw/upload/v1504879826/web/fonts/favorit-times/FavoritSSENSE-Regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("//res.cloudinary.com/ssenseweb/raw/upload/v1504879826/web/fonts/favorit-times/FavoritSSENSE-Regular.woff2")
+      format("woff2"),
+    url("//res.cloudinary.com/ssenseweb/raw/upload/v1504879826/web/fonts/favorit-times/FavoritSSENSE-Regular.woff")
+      format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: JHA Times Now;
+  src: url("//res.cloudinary.com/ssenseweb/raw/upload/v1493055756/web/fonts/favorit-times/TimesNow-SemiLight.eot");
+  src: url("//res.cloudinary.com/ssenseweb/raw/upload/v1493055756/web/fonts/favorit-times/TimesNow-SemiLight.eot?#iefix")
+      format("embedded-opentype"),
+    url("//res.cloudinary.com/ssenseweb/raw/upload/v1493055756/web/fonts/favorit-times/TimesNow-SemiLight.woff2")
+      format("woff2"),
+    url("//res.cloudinary.com/ssenseweb/raw/upload/v1493055756/web/fonts/favorit-times/TimesNow-SemiLight.woff")
+      format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: ssense-fonts;
+  src: url("//res.cloudinary.com/ssenseweb/raw/upload/v1492612618/web/fonts/ssense-font/ssense-fonts.eot");
+  src: url("//res.cloudinary.com/ssenseweb/raw/upload/v1492612618/web/fonts/ssense-font/ssense-fonts.eot")
+      format("embedded-opentype"),
+    url("//res.cloudinary.com/ssenseweb/raw/upload/v1492612618/web/fonts/ssense-font/ssense-fonts.woff")
+      format("woff"),
+    url("//res.cloudinary.com/ssenseweb/raw/upload/v1492612618/web/fonts/ssense-font/ssense-fonts.ttf")
+      format("truetype"),
+    url("//res.cloudinary.com/ssenseweb/raw/upload/v1471969601/web/fonts/ssense-font/ssense-fonts.svg")
+      format("svg");
+  font-weight: 400;
+  font-style: normal;
+}
+
+.fa,
+.heart-icon .button-label:before {
+  font-family: ssense-fonts;
+  speak: none;
+  font-style: normal;
+  font-weight: 400;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  display: inline-block;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: auto !important;
+}
+
+.fa-ssense-bag:before {
+  content: "\E600";
+}
+
+.fa-ssense-menu:before {
+  content: "\E601";
+}
+
+.fa-ssense-magnifier:before {
+  content: "\E602";
+}
+
+.fa-ssense-account:before {
+  content: "\E603";
+}
+
+.fa-twitter:before {
+  content: "\E604";
+}
+
+.fa-facebook:before {
+  content: "\E605";
+}
+
+.fa-instagram:before {
+  content: "\E606";
+}
+
+.fa-ssense-warning:before {
+  content: "\E607";
+}
+
+.fa-ssense-success:before {
+  content: "\E608";
+}
+
+.fa-soundcloud:before {
+  content: "\E60A";
+}
+
+.fa-ssense-printer:before {
+  content: "\E60D";
+}
+
+.fa-small-close:before {
+  content: "\E611";
+}
+
+.fa-listen-icon:before {
+  content: "\E613";
+}
+
+.fa-arrow-right:before {
+  content: "\E615";
+}
+
+.fa-arrow-left:before {
+  content: "\E616";
+}
+
+.fa-pinterest:before {
+  content: "\E61A";
+}
+
+.fa-google-plus:before {
+  content: "\E61B";
+}
+
+.fa-youtube:before {
+  content: "\E61D";
+}
+
+.fa-heartless:before {
+  content: "\E900";
+}
+
+.fa-heart:before {
+  content: "\E901";
+}

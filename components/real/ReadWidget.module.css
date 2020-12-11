@@ -1,0 +1,36 @@
+.root {
+  @apply flex;
+  border-top: 1px solid #979797;
+  padding: 0.625rem 0;
+  width: 100%;
+
+  &:last-child {
+    border-bottom: 1px solid #979797;
+  }
+}
+
+.side {
+  @apply mr-2;
+  min-width: 95px;
+}
+
+.img {
+  background: gray;
+}
+
+.title {
+  @apply uppercase;
+  color: rgb(51, 51, 51);
+  font: lighter normal 0.89062rem/1.125rem Favorit SSENSE Inter1;
+  letter-spacing: -0.00313rem;
+}
+
+.header {
+  @apply flex flex-col justify-between;
+}
+
+.category {
+  color: rgb(51, 51, 51);
+  font: lighter normal 0.9375rem/1.125rem JHA Times Now;
+  letter-spacing: -0.00313rem;
+}

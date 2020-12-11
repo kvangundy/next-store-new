@@ -1,0 +1,39 @@
+.root {
+  @apply mb-6;
+
+  @media (min-width: 768px) {
+    @apply flex-1 mr-6 mb-2;
+    max-width: 33.33%;
+
+    &:last-child {
+      @apply mr-0;
+    }
+  }
+}
+
+.category {
+  margin-top: 6px;
+  color: rgb(51, 51, 51);
+  letter-spacing: -0.00313rem;
+  font-size: 16px;
+  @apply mr-8 uppercase;
+}
+
+.header {
+  @apply flex items-start mt-4;
+}
+
+.title {
+  @apply inline uppercase;
+  color: rgb(51, 51, 51);
+  font: lighter normal 1.1875rem/1.625rem Favorit SSENSE Inter1;
+  letter-spacing: -0.01562rem;
+  font-weight: lighter;
+}
+
+.description {
+  @apply mr-8;
+  color: rgb(51, 51, 51);
+  font: lighter normal 0.9375rem/1.125rem JHA Times Now;
+  letter-spacing: -0.00313rem;
+}
